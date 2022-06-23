@@ -2,7 +2,7 @@
   "name": "Queen Bixby-MD",
   "description": "WhatsApp MD bot build with nodejs",
   "repository": "https://github.com/Vidur2-gplus/winsurfbot1",
-  "logo": "https://i.ibb.co/PcQYF7c/djt.jpg",
+  "logo": "https://i.ibb.co/YbYQ5QY/Image20220618182136.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
